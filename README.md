@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Kodbook-FrontEnd-React
+KodBook is a social media platform. The frontend of this project is designed by using reactcd2ca3c25b6a7b54d3cad2628cfbfbaa8d557162
